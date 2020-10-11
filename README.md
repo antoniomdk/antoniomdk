@@ -9,11 +9,10 @@ I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-stack 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 ### Data Science Tools
