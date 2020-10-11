@@ -23,7 +23,7 @@ I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-stack 
 ## 📚 Tech Articles and Talks 
 
 - On this [repo](https://github.com/antoniomdk/seminars_and_talks) you can find slides and code from tech talks I've given.
-- I post sporadically on Medium, feel free to check [my articles](https://medium.com/).
+- I post sporadically on Medium, feel free to check [my articles](https://medium.com/@antoniomdk1).
 
 ## Where to find me
 <p>
