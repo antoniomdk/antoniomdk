@@ -13,4 +13,4 @@
 
 [![antoniomdk's github stats](https://github-readme-stats.vercel.app/api?username=antoniomdk&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhodar&layout=compact&hide=html,makefile&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomdk&layout=compact&hide=html,makefile&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
