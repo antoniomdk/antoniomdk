@@ -18,8 +18,10 @@ I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-stack 
 ### Data Science Tools
 
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Tool-Ray-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-MLFlow-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
