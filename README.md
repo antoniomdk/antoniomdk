@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Antonio, a Software developer from  Granada, Spain, currently living in Glasgow, Scotland.
-I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-stack engineer.
+I'm Antonio, a Software Engineer from  Granada, Spain, currently living in Glasgow, Scotland.
+I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-Stack engineer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
