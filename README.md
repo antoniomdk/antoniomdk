@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I'm Antonio, a Software Engineer from  Granada, Spain, living in Glasgow, Scotland.
-I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-Stack engineer.
+I'm currently working at [Celtiberian](https://celtiberian.es/) as a Machine Learning Engineer.
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -36,6 +37,7 @@ I'm currently working at [Celtiberian](https://celtiberian.es/) as a Full-Stack 
 - I post sporadically on Medium, feel free to check [my articles](https://medium.com/@antoniomdk1).
 
 ## Where to find me
+
 <p>
   <a href="https://github.com/antoniomdk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/antonio-molner/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@antoniomdk1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
